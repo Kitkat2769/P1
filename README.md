@@ -265,10 +265,5 @@
 
     </section>
 
-    <!-- Footer -->
-    <section class = "footer" aria-label="Page footer">
-        <p>&copy; 2026 Your Website. All rights reserved.</p>
-    </section>
-
 </body>
 </html>
